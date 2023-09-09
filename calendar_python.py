@@ -71,7 +71,7 @@ def m_calendar(m,y):
         temp = []
     return li
 
-# returns the dataframe with day columns and blank index
+# returns the dataframe with days columns and blank index
 def clean_cal(df):
     days = {0:'Sun', 1:'Mon', 2:'Tue', 3:'Wed', 4:'Thu', 5:'Fri', 6:'Sat'}
     ind = {0:"", 1:"", 2:"", 3:"", 4:"", 5:""}
