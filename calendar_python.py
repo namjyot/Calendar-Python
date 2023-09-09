@@ -85,4 +85,4 @@ y = int(input("Enter Year: "))
 cldr = m_calendar(m,y)
 df = pd.DataFrame(cldr)
 df = clean_cal(df)
-print(df) # printint the calendar
+print(df) # printing the calendar
