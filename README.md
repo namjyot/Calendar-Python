@@ -1,9 +1,9 @@
 
 # Calendar Using Python
 
-In this project, I made a calendar using the python language without any module except numpy and pandas.
+In this project, I made a calendar using the python language without any module except pandas.
 
-I've used pandas to display the calendar and numpy to store the 2D array
+I've used pandas to display the calendar.
 
 
 In this "calendar.ipynb" file there are total 4 functions named:
